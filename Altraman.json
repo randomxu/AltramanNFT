@@ -1,0 +1,37 @@
+{
+  "image": "https://cloudflare-ipfs.com/ipfs/QmYN3R1YY5cSVW6mNHXz86n6HAvjJoNeVGXmwrQcYqgMUU",
+  "external_url": "https://unisocks.exchange",
+  "description": "英勇的奥特战士-迪迦奥特曼",
+  "name": "DIJA",
+  "attributes": [
+    {
+      "trait_type": "Height",
+      "value": "56m"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blu and red"
+    },
+    {
+      "trait_type": "age",
+      "value": "18888"
+    },
+    {
+      "trait_type": "Born In",
+      "value": "M78"
+    },
+    {
+      "trait_type": "Length",
+      "value": "28cm"
+    },
+    {
+      "trait_type": "weight",
+      "value": "44000t"
+    },
+    {
+      "trait_type": "unique skill",
+      "value": "迪拉休姆光流"
+    }
+  ],
+  "background_color": "ffffff"
+}
